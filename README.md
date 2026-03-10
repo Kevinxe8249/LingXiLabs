@@ -2,7 +2,11 @@
 LingXiLabs是凌曦安全团队依托攻防实战经验与SRC漏洞挖掘经验打造的漏洞靶场集合，以“锤炼攻防技能、赋能漏洞挖掘”为核心，免费为网络安全爱好者、从业人员及院校等提供高可用的练习环境。覆盖常见的Web漏洞等，采用开源开放模式。
 
 
-# 二、项目列表
+# 二、Labs
+
+| Lab | Description | Tech | Deploy |
+|----|-------------|------|--------|
+| [CC6-Range](./cc6-range) | Apache Commons Collections6 反序列化漏洞利用靶场 | Java / Deserialization /  JS RE | Docker |
 
 
 # 三、关于我们
